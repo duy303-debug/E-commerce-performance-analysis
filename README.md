@@ -78,7 +78,7 @@ Dashboard được xây dựng trên Power BI và bao gồm 4 nhóm phân tích 
 - **Product Performance**
 - <img width="1799" height="1013" alt="image" src="https://github.com/user-attachments/assets/18501eea-037c-493a-94dd-3dd5209dc1a3" />
 - **Customer Analysis**
-<img width="1797" height="1009" alt="image" src="https://github.com/user-attachments/assets/2276f1e9-43ee-446d-9c07-1af84eb60a4b" />
+-<img width="1797" height="1009" alt="image" src="https://github.com/user-attachments/assets/2276f1e9-43ee-446d-9c07-1af84eb60a4b" />
 
 ---
 
