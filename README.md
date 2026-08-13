@@ -206,21 +206,25 @@ Các chỉ số được sử dụng trong dự án:
 
 ---
 
-# 📁 Cấu trúc Project
+## 📁 Cấu trúc Project
 
 ```text
 E-commerce-performance-analysis/
 │
 ├── README.md
-├── docs
+│
+├── docs/
 │   └── data_dictionary.pdf
+│
 ├── SQL/
-    ├── Customer.sql
-    ├── Product.sql
-    └── Traffic_conversion.sql
----
+│   ├── Customer.sql
+│   ├── Product.sql
+│   └── Traffic_conversion.sql
+│
+└── dashboard/
+    └── PowerBI_Dashboard.pbix
+```
 
-# 📊 Dashboard
+## 📊 Dashboard
 
-👉 [Download Power BI Dashboard](https://drive.google.com/file/d/1arc01Kotti7f3MiyQYHAv6iMCSE1pTNl/view?usp=sharing)
-
+👉 [Xem / Download Power BI Dashboard](https://drive.google.com/file/d/1arc01Kotti7f3MiyQYHAv6iMCSE1pTNl/view?usp=sharing)
