@@ -97,13 +97,11 @@ Dashboard được xây dựng trên Power BI và bao gồm 4 nhóm phân tích 
 
 ## 📦 Product Performance
 
-- **The Original Mr. Fuzzy chiếm 52.95% tổng doanh số sản phẩm**, đồng thời duy trì xu hướng tăng trưởng ổn định qua thời gian.
+- **Mr. Fuzzy** chiếm **52,95% tổng doanh thu** và duy trì tăng trưởng ổn định qua các tháng. Tuy nhiên, tỷ trọng doanh thu quá lớn từ một sản phẩm tạo ra **rủi ro phụ thuộc**, nếu nhu cầu đối với Mr. Fuzzy suy giảm.
 
-- Tuy nhiên, tỷ trọng doanh số quá lớn từ một sản phẩm khiến doanh nghiệp đối mặt với **rủi ro phụ thuộc vào Mr. Fuzzy** nếu nhu cầu của sản phẩm này suy giảm.
+- **Mini Bear** có mức giá thấp nhất (**$29.99**), được định vị là **mua kèm**, trong khi 3 sản phẩm còn lại đóng vai trò là **sản phẩm chính** trong danh mục.
 
-- **The Hudson River Mini Bear** là sản phẩm có mức giá thấp nhất (**$29.99**) và được xem là sản phẩm bổ trợ hoặc mua kèm, trong khi 3 sản phẩm còn lại đóng vai trò là các sản phẩm chính trong danh mục.
-
-- **The Birthday Sugar Panda** có tỷ lệ hoàn trả cao nhất (**6.04%**), cao gần **5 lần** so với Mini Bear (**1.28%**), cho thấy cần ưu tiên kiểm tra nguyên nhân dẫn đến hoàn trả của sản phẩm này.
+- **Birthday Sugar Panda** có tỷ lệ hoàn trả cao nhất (**6,04%**), cao gần **5 lần** so với Mini Bear (**1,28%**), cho thấy doanh nghiệp cần ưu tiên kiểm tra nguyên nhân hoàn trả của sản phẩm này.
 
 ---
 
@@ -196,7 +194,6 @@ Các chỉ số được sử dụng trong dự án:
 - Conversion Rate
 - Average Order Value (AOV)
 - Website Traffic
-- Funnel Drop-off Rate
 - Refund Rate
 - Revenue / Orders by Product
 - Conversion Rate by Marketing Channel
