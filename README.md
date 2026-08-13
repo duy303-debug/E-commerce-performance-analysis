@@ -71,9 +71,14 @@ Thời gian phân tích: **2012 – 2015**
 Dashboard được xây dựng trên Power BI và bao gồm 4 nhóm phân tích chính:
 
 - **Executive Overview**
+- <img width="1797" height="1008" alt="image" src="https://github.com/user-attachments/assets/050ca1d9-9065-47bb-93d7-0db2c59a3005" />
+
 - **Traffic & Conversion**
+- <img width="1798" height="1013" alt="image" src="https://github.com/user-attachments/assets/dfdaf5b3-9b3d-4ccf-890d-c65be2217bea" />
 - **Product Performance**
+- <img width="1799" height="1013" alt="image" src="https://github.com/user-attachments/assets/18501eea-037c-493a-94dd-3dd5209dc1a3" />
 - **Customer Analysis**
+<img width="1797" height="1009" alt="image" src="https://github.com/user-attachments/assets/2276f1e9-43ee-446d-9c07-1af84eb60a4b" />
 
 ---
 
@@ -207,15 +212,11 @@ Các chỉ số được sử dụng trong dự án:
 E-commerce-performance-analysis/
 │
 ├── README.md
-│
+├── docs
+│   └── data_dictionary.pdf
 ├── SQL/
 │   └── ecommerce_analysis.sql
 │
 ├── Dashboard/
-│   └── E-commerce Dashboard.pbix
-│
-└── images/
-    ├── overview.png
-    ├── traffic_conversion.png
-    ├── product.png
-    └── customer.png
+   └── E-commerce Dashboard.pbix
+
