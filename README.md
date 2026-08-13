@@ -215,8 +215,11 @@ E-commerce-performance-analysis/
 ├── docs
 │   └── data_dictionary.pdf
 ├── SQL/
-│   └── ecommerce_analysis.sql
-│
-├── Dashboard/
-   └── E-commerce Dashboard.pbix
+    ├── Customer.sql
+    ├── Product.sql
+    └── Traffic_conversion.sql
+
+## 📊 Dashboard
+
+👉 [Download Power BI Dashboard](https://drive.google.com/file/d/1arc01Kotti7f3MiyQYHAv6iMCSE1pTNl/view?usp=sharing)
 
